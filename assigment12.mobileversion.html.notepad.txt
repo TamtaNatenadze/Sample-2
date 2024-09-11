@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device=width,
+    initial-scale=1.0" />
+    <link rel="stylesheet" href="style1.css" />
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div class="box1">
+            <div class="image1">
+              <img src="home.png" alt="Image Sample"/>
+              <div class="image11">
+              <h1 class="Homepage">Homepage</h1>
+              <img src="plus-circle.png" alt="Image Sample"
+                class="image11" />   
+                <img src="profile.png" alt="Image Sample" 
+                class="image12"/>
+        </div>  
+    </header>
+    <main>
+        <div class="box2">
+            <div class="text2">
+            <h3 class="BEIN">BE IN</h3>
+        <div class="image2">
+            <img src="profile.png" alt="Image Sample" class="image2"/> 
+            <h3 class="Alan">Alan Patterson</h3>
+        <div class="image21">
+            <img src="Friends, pages groups1.png" alt="Image Sample" class="image21"/> 
+            <img src="bell.png" alt="Image Sample" class="image22"/>
+            <img src="message-circle.png" alt="Image Sample" class="image23"/>
+            <img src="image.png" alt="Image Sample" class="image24"/>
+            <img src="video.png" alt="Image Sample" class="image25"/>
+            <img src="shopping-cart.png" alt="Image Sample" class="image26"/>
+            <p class="text22">Notifications</p>
+            <p class="text23">Messenger</p>
+            <p class="text24">Images</p>
+            <p class="text25">Videos</p>
+            <p class="text26">Marketplace</p>
+        </div>  
+        <div class="box3">
+            <img src="Mask group.png" alt="Image Sample" class="image31"/> 
+        <div class="image31">
+            <img src="Group 36.png" alt="Image Sample" class="image32"/> 
+        <div class="image32">
+        </div>
+            <div class="image3">
+            <img src="Group 37.png" alt="Image Sample" class="image3"/> 
+        <div class="image3">
+            <img src="Group 38.png" alt="Image Sample" class="image3"/> 
+        <div class="image3">
+        </div>
+        <div class="image33">
+        <img src="Share button.png" alt="Image Sample" class="image33"/> 
+        <div class="image33">
+        </div>
+        <div class="box4">
+            <h1 class="article">Last Article</h1>
+                <img src="book-open.png" alt="Image Sample" class="image4"/> 
+            <div class="image4">
+                <img src="Vector.png" alt="Image Sample" class="image41"/> 
+            <div class="image41">
+            </div> 
+             <div class="image41">
+                <img src="icons8.png" alt="Image Sample" class="image42"/> 
+            <div class="image42">
+        </div>
+        <div class="box5">
+            <div class="image5">
+            <img src="image5.png" alt="Image Sample" class="image5"/> 
+        <div class="image5">
+            <h1 class="name">Victor Fernando</h1>
+            <p class="text5">The construction industry's future will undoubtedly include "carbon reduction" as a mandatory task. Aside from locally sourced, virgin materials, an increasing number of new materials are becoming available... </p>
+            <div class="image51">
+            <img src="image 2.png" alt="Image Sample" class="image51"/> 
+        <div class="image51">
+        </div>
+        <a href="link.html" class="see-more">See more...</a>  
+    </main>
+</body>
+</html>
